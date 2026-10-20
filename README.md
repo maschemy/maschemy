@@ -7,6 +7,8 @@
 **Java · Spring으로 경험을 쌓고 있는 취업 준비생입니다.**  
 팀 프로젝트에서 고객 관리와 운영 대시보드를 개발하며, 데이터와 비즈니스 로직을 다루는 방법을 배우고 있습니다.
 
+[![Blog](https://img.shields.io/badge/Velog-개발_기록-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@kmcc561/posts)
+
 </div>
 
 ---
@@ -16,6 +18,7 @@
 - **목표** · Java · Spring 기반 백엔드 개발자로 첫 커리어 시작하기
 - **경험** · 고객 관리 API, 운영 데이터 집계, AWS 배포 실습
 - **개발 습관** · 기능을 구현한 이유와 문제 해결 과정을 문서로 남기기
+- **블로그** · [Velog에서 학습과 개발 과정 기록하기](https://velog.io/@kmcc561/posts)
 
 ### 🛠 Tech Stack
 
